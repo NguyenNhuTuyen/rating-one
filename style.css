@@ -57,6 +57,7 @@ body{
 .number{
     text-align: center;
     line-height: 55px;
+    transition: all 0.2s;
 }
 
 .number:hover{
